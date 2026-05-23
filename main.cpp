@@ -1,2 +1,2 @@
-test1;
-test2;
+#include "Character.h"
+int main(){}
