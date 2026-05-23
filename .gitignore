@@ -1,2 +1,5 @@
 #的第一个.gitignore
 Logs
+
+#忽略所有后缀为exe的文件
+*.exe
